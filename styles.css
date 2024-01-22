@@ -146,6 +146,11 @@ a {
     margin-bottom: 40px;
 }
 
+.content ul {
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
 .browse-all {
     display: block;
     margin-bottom: 30px;
